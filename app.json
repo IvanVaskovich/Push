@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "БГАЭК",
+    "slug": "bgaek",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.7.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Приложение Бобруйского Аграрно-экономического колледжа, под разработкой учащихся 25-П группы Васковича Ивана и Ищенко Глеба"
+  }
+}
